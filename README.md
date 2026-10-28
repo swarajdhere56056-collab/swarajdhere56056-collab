@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ritesh!<br>💻 Passionate Java Developer & Problem Solver<br>🌱 Currently learning Data Structures & Algorithms, Advanced Java, and Full-Stack Development<br>☁️ Exploring Cloud Computing, AI, and Open Source<br>📚 Always learning new technologies and building real-world projects<br>🧠 My Focus Areas<br>📊 Data Structures & Algorithms<br>🌐 Full-Stack Web Development<br>☁️ Cloud Computing (AWS)<br>🤖 Artificial Intelligence<br>🐍 Python Programming<br>💾 Database Management (SQL)<br>🛠️ Open Source Contributions<br>🚀 Software Development<br>📚 Continuous Learning
+👋 Hi, I'm swaraj!<br>💻 Passionate Java Developer & Problem Solver<br>🌱 Currently learning Data Structures & Algorithms, Advanced Java, and Full-Stack Development<br>☁️ Exploring Cloud Computing, AI, and Open Source<br>📚 Always learning new technologies and building real-world projects<br>🧠 My Focus Areas<br>📊 Data Structures & Algorithms<br>🌐 Full-Stack Web Development<br>☁️ Cloud Computing (AWS)<br>🤖 Artificial Intelligence<br>🐍 Python Programming<br>💾 Database Management (SQL)<br>🛠️ Open Source Contributions<br>🚀 Software Development<br>📚 Continuous Learning
 
 
 ## 🌐 Socials:
